@@ -1,5 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-<rect width="128" height="128" rx="28" fill="#0b1f36"/>
-<path d="M61 24h10v29h24v10H71v41H61V63H34V53h27z" fill="#c9a45c"/>
-<path d="M25 100c18-8 60-8 78 0" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
-</svg>
+<img src="/assets/images/logo-oficial.png"
+     alt="Logo oficial de Ministerio Luz y Gracia"
+     width="64"
+     height="64">
